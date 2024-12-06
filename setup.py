@@ -18,7 +18,8 @@ setup(
     "License :: Public Domain",
     "Operating System :: OS Independent",
   ],
-  install_requires=[
+  install_
+  requires=[
     "bcrypt>=3.0.0",
     "colorama>=0.4",
     "cryptography>=35",
